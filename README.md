@@ -1,4 +1,5 @@
-### Hi there, my name is Marco Antônio.
+### Hello, I'm Marco Antônio 
+### Backend Developer
 <img src="https://cdn.discordapp.com/attachments/753737378719596616/801316752331636776/psytech.gif">
 
 <!--
