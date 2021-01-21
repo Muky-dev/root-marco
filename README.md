@@ -1,5 +1,6 @@
 ### Hello, I'm Marco Antônio 
 ### Backend Developer
+### Studying Systems Analysis and Development at FIAP.
 <img src="https://cdn.discordapp.com/attachments/753737378719596616/801316752331636776/psytech.gif">
 
 <h2>Tools & Technologies</h2>
